@@ -23,4 +23,5 @@
     -- add a persistence layer in order to
        save and get list from incognito mode.
         
-    
+##5 - Create a PR for test review
+    - it must be within 1 hour from HR notification
