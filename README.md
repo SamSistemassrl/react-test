@@ -2,7 +2,7 @@
 
 ## Conditions:
     - test must be done in 1 hour.
-    - for that we will compare PR and fork time.
+    - for that we will compare commits timestamp and notification.
     - test must be runnable 
 
 # instructions
