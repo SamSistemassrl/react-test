@@ -1,16 +1,12 @@
 import React from 'react';
-import logo from './logo.png';
+import TaskManager from './components/TaskManager'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-            Bienvenido a Sam Sistemas
-        </p>
-      </header>
+      <h1>To-Do</h1>
+      <TaskManager/>
     </div>
   );
 }
