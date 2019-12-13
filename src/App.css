@@ -1,22 +1,56 @@
 .App {
+  background-color: #282c34;
+}
+.App {
   text-align: center;
 }
 
 .App-logo {
+  position: relative;
   height: 40vmin;
+  width: 450px;
+  top: 25px;
+  border-radius: 25px;
 }
 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  position: relative;
 }
 
 .App-link {
   color: #09d3ac;
+}
+
+.samText {
+  position: relative;
+  margin-top: 40px;
+}
+
+.Container {
+  position: relative;
+  height: 25%;
+  width: 25%;
+  left: 37.5%;
+  border: solid 3px white;
+  border-radius: 25px;
+}
+
+.containerAddForm {
+  position: relative;
+  top: 15px;
+}
+
+.containerTaskList {
+  position: relative;
+  top: 50%;
+  left: 53%;
+  padding-top: 20px;
+  margin: 25px 0 15px 0;
+  transform: translate(-50%, -10%);
 }

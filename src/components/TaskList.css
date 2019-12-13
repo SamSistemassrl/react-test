@@ -1,0 +1,13 @@
+.deleteButtonTaskList {
+  color: white;
+}
+
+.itemEffortTaskList {
+  margin-left: 5px;
+}
+
+.taskListItemDivider {
+  width: 60%;
+  position: relative;
+  right: 10px;
+}
